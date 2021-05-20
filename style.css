@@ -128,3 +128,12 @@ i {
 #call {
     --link-color: #9D9171;
 }
+
+#venmo {
+    --link-color: #26F0F1;
+    color: #000000;
+}
+
+#bitcoin {
+    --link-color: #EDAE49;
+}
